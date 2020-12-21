@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#chatContainer {
+  width: 500px;
+  height: 500px;
+}
+
+#chatWindow {
+  height: 460px;
+  border: 1px solid black;
+  display: flex;
+  overflow: auto;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+input {
+  height: 36px;
+}
+
+#input {
+  width: 73.4%;
+}
+
+#button {
+  width: 25%;
+}

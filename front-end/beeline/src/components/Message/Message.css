@@ -1,0 +1,13 @@
+.messageContainer {
+  padding: 10px;
+  font-size: 16px;
+  border-top: 1px solid black;
+}
+
+.authorMessage {
+  direction: rtl;
+}
+
+.author {
+  color: darkmagenta;
+}
